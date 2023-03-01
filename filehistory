@@ -1,0 +1,8 @@
+    1  git clone https://github.com/NiedbalskiG/wsb_pai_diinz_2_K15_inf.git
+    2  ls		nie wazne
+    3  cd [200~wsb_pai_diinz_2_K15_inf~		nie wazne
+    4  cd wsb_pai_diinz_2_K15_inf
+    5  ls
+    6  clear
+    7  history
+    8  history > filehistory
